@@ -1,0 +1,64 @@
+﻿# Ignore build output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ist/
+[Dd]ebugTest/
+[Dd]ebugBuild/
+[Dd]ebugConfiguration/
+
+# Ignore temporary files
+[Tt]emp/
+[Tt]mp/
+
+# Ignore Visual Studio specific files
+.vs/
+.vs2019/
+.vs2017/
+.vscode/
+
+# Ignore ASP.NET temporary files
+# (for web projects)
+[Ll]ibrary/
+[Ll]ibraries/
+node_modules/
+bower_components/
+
+# User-specific files
+.idea/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build Results
+bin/
+obj/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files - Temporary files
+*.cab
+
+# Windows Installer - Build results
+*.psess
+*.vsp
+
+# IIS Express folder
+.IISExpress/
+
+# JetBrains Rider folder
+.idea/
+
+# macOS Finder
+.DS_Store
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
